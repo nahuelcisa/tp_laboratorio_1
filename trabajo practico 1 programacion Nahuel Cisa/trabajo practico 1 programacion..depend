@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1567706244 source:c:\users\nahuel\desktop\trabajo practico 1 programacion.\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1567709472 source:c:\users\nahuel\desktop\trabajo practico 1 programacion - copia\cisa.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1567709541 source:c:\users\nahuel\desktop\trabajo practico 1 programacion - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"cisa.h"
+
+1567709472 c:\users\nahuel\desktop\trabajo practico 1 programacion - copia\cisa.h
+
+1567709541 source:c:\users\nahuel\desktop\trabajo practico 1 programacion nahuel cisa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"cisa.h"
+
+1567709472 c:\users\nahuel\desktop\trabajo practico 1 programacion nahuel cisa\cisa.h
+
